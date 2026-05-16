@@ -61,7 +61,7 @@ I'm an MSc Data Science student at SASTRA Deemed University passionate about **C
 
 **Master of Science in Data Science**  
 *SASTRA Deemed University, Thanjavur, India*  
-📅 2024 - 2026 | 📊 GPA: 8.2/10
+📅 2025 - 2027 | 📊 GPA: 8.2/10
 
 **Key Coursework:**
 - Machine Learning & Deep Learning
